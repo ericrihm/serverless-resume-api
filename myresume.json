@@ -1,8 +1,7 @@
 {
   "basics": {
     "name": "Eric Rihm",
-    "label": "CloudOps/DevOps",
-    "picture": "",
+    "label": "CloudOps/SecDevOps",
     "email": "ericrihm@gmail.com",
     "website": "http://rihm.io",
     "summary": "AWS and Linux entusiast with some experience in the Cloud.",
@@ -19,7 +18,7 @@
     },
     {
       "network": "GitHub",
-      "username": "rishabkumar7",
+      "username": "ericrihm",
       "url": "https://github.com/ericrihm"
     }]
   },
@@ -53,8 +52,13 @@
     "issuer": "CompTIA",
   },
   {
+    "title": "Terraform Associate",
+    "date": "2024-1-04",
+    "issuer": "HashiCorp",
+  },
+  {
     "title": "Firewall Engineer",
-    "date": "2023-4-01",
+    "date": "2023-4-19",
     "issuer": "Sophos",
   },
 ],
